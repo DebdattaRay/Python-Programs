@@ -1,0 +1,5 @@
+a = eval(input("Enter 1st number : "))
+b = eval(input("Enter 2nd number : "))
+c = eval(input("Enter 3rd number : "))
+m = (max(a,b,c))
+print("Greatest number  :",m)
